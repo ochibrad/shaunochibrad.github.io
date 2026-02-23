@@ -1,7 +1,6 @@
 # shaunochibrad.github.io
-# My Resume Website
 
-personal resume and portfolio website I built it to showcase my skills, projects, and professional journey in a clean and structured way.
+Personal resume and portfolio website I built it to showcase my skills, projects, and professional journey in a clean and structured way.
 
 ## Purpose
 
