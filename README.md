@@ -1,13 +1,10 @@
 # shaunochibrad.github.io
 # My Resume Website
 
-This repository hosts my personal resume and portfolio website.  
-I built it to showcase my skills, projects, and professional journey in a clean and structured way.
+personal resume and portfolio website I built it to showcase my skills, projects, and professional journey in a clean and structured way.
 
 ## Purpose
 
-Most portfolios are cluttered or unfocused.  
-This one isn’t.  
 Everything is intentional, clear, and professional.
 
 ## Features
