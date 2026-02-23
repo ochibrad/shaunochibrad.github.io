@@ -28,6 +28,6 @@ You can see the website live here:
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/ochiengshaunbradley/shaunochibrad.git
+git clone https://github.com/ochibrad/shaunochibrad.git
 cd shaunochibrad
 open index.html  # Or run a local server if needed
