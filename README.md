@@ -13,8 +13,9 @@ Everything is intentional, clear, and professional.
 - Clean, minimal design  
 - Easy to update
 
-## Tech (if relevant)
+## Tech 
 
+- mechanical technology
 - HTML / CSS / JavaScript  
 - GitHub Pages for hosting  
 
