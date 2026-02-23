@@ -29,5 +29,5 @@ You can see the website live here:
 
 ```bash
 git clone https://github.com/ochibrad/shaunochibrad.git
-cd ochibrad
+cd HypoxiDrive
 open index.html  # Or run a local server if needed
