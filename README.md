@@ -23,7 +23,7 @@ Everything is intentional, clear, and professional.
 ## How to View
 
 You can see the website live here:  
-`https://github.com/ochiengshaunradley/shaunochibrad` → GitHub Pages link  
+`https://shaunochibrad.github.i.o` → GitHub Pages link  
 
 ## How to Run Locally
 
