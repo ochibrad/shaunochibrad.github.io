@@ -29,6 +29,6 @@ You can see the website live here:
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/ochibrad/shaunochibrad.git
+git clone https://github.com/ochibrad/HypoxiDrive.git
 cd HypoxiDrive
 open index.html  # Or run a local server if needed
